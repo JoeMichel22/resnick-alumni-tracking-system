@@ -24,7 +24,8 @@ My primary contributions included:
 
 ## 📚 Deliverables
 - [Resnick Alumni Tracking System Executive Summary](./Documentation/Resnick_Alumni_Tracking_System_Overview.pdf)
-- [User Manual](./Documentation/User_Manual.docx)
+- [User Manual](./Documentation/User_Manual.pdf)
+- [User Manual Visual](./Documentation/User_Manual.docx)
 - [UI Mockups](./Documentation/UI_Mockups/)
 - [Final Presentation Slides](./Presentation/Final_Presentation_Slides.pdf)
 
