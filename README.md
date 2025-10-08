@@ -23,7 +23,7 @@ My primary contributions included:
 - Creating sections of the user manual and documenting system workflows
 
 ## 📚 Deliverables
-- [Resnick Alumni Tracking System Project Report](./Documentation/Resnick_Alumni_Tracking_System_Project_Report.pdf)
+- [Resnick Alumni Tracking System Project Report](./Documentation/Resnick_Alumni_Tracking_System_Overview.pdf)
 - [User Manual](./Documentation/User_Manual.pdf)
 - [UI Mockups](./Documentation/UI_Mockups/)
 - [Final Presentation Slides](./Presentation/Final_Presentation_Slides.pdf)
