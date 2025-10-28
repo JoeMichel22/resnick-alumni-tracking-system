@@ -27,7 +27,7 @@ My primary contributions included:
 - [User Manual](./Documentation/User_Manual.pdf)
 - [User Manual Visual](./Documentation/User_Manual.docx)
 - [UI Mockups](./Documentation/UI_Mockups/)
-- [Final Presentation Slides](./Presentation/Final_Presentation_Slides.pdf)
+- [Final Presentation Slides](./Documentation/Final_Presentation_Slides.pdf)
 
 ## 💡 Outcome
 This project improved alumni data management efficiency and provided the Resnick Center with a scalable, user-friendly system for long-term use.  
